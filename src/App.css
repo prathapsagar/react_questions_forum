@@ -1,0 +1,11 @@
+.App {
+    text-align: center;
+}
+
+body, html {
+    height: 100%;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT74vd0AU4CjF6PiEkYnfc_Ghi6nFX2Fz2QXQ&usqp=CAU");
+    
+    background-size: 100% 100%;
+
+}
